@@ -1,21 +1,34 @@
-# Cybersecurity Portfolio — Satya Prakash Prajapati
+<h1 align="center">Satya Prakash Prajapati</h1>
+<h3 align="center">Cybersecurity Analyst | SOC & Blue Team | Digital Forensics | Threat Intelligence</h3>
+<h4 align="center">New Delhi, India</h4>
 
-> SOC Analyst | Blue Team | Digital Forensics | Threat Intelligence
-
-🏆 TryHackMe Top 5% Globally | 108 Rooms Completed  
-🔗 [LinkedIn](https://www.linkedin.com/in/satyaprakashprajapati) | [TryHackMe](https://tryhackme.com/p/onesatyaprakash)
+<p align="center">
+  <a href="https://www.linkedin.com/in/onesatyaprakash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/onesatyaprakash" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
+  <a href="mailto:s.p.prajapati1998+github@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## About This Portfolio
+## 👨‍💻 About Me
 
-This repository contains hands-on security investigation write-ups, 
-lab documentation, and analysis reports built from real cybersecurity 
-practice environments. Each write-up documents tools used, methodology, 
-findings, and the defender's perspective.
+I'm a cybersecurity professional actively transitioning into SOC and Blue Team roles. I combine hands-on offensive and defensive security skills with a strong quantitative background in Business Economics and Econometrics.
+
+I don't just collect certifications — I build real skills in real labs.
+
+- 🏆 **Top 5% globally on TryHackMe** — 108 rooms completed across SOC, DFIR, threat intel, network analysis, and offensive security
+- 🔵 Currently focused on **Blue Team | SOC Tier 1 | Incident Response**
+- 🌏 Targeting **SOC Analyst roles** in India and the Gulf region
+- 📊 Background in **financial services data operations** — domain expertise in BFSI security
+- 🔬 Building a public portfolio of **security investigation write-ups** (this repository)
 
 ---
-
 
 ## 🛡️ Core Skills
 
